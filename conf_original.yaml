@@ -1,0 +1,8 @@
+github:
+  access_token: 'xxx'
+  end_point: 'https://api.github.com'
+  repository: '/user_name/repository_name'
+redmine:
+  end_point: 'https://<your_redmine_domain>'
+  username: 'xxx'
+  password: 'xxx'
